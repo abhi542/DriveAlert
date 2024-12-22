@@ -3,7 +3,8 @@ Here’s a GitHub project description for **DriveAlert**:
 ---
 
 # **DriveAlert**  
-**DriveAlert** is a real-time drowsiness detection and alarm system built using Python. Designed with driver safety in mind, this application utilizes deep learning, computer vision, and object detection techniques to identify signs of fatigue and provide timely alerts, reducing the risk of accidents caused by drowsy driving.  
+
+It is a Python-based real-time drowsiness detection system that uses deep learning, computer vision, and object detection to identify driver fatigue and trigger timely alarms, enhancing road safety and preventing accidents.  
 
 ## **Key Features**  
 - **Real-Time Monitoring**: Detects drowsiness by analyzing eye closure, yawning, and facial expressions.  
