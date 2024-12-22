@@ -39,7 +39,7 @@ It is a Python-based real-time drowsiness detection system that uses deep learni
    ```  
 3. Run the application:  
    ```bash  
-   python drivealert.py  
+   python app.py  
    ```  
 
 
